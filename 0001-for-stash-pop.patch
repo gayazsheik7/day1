@@ -1,0 +1,20 @@
+From 443fc9807bc1c12efcbc733db903b146494e1e12 Mon Sep 17 00:00:00 2001
+From: gayaz <gayazsheik7@gmail.com>
+Date: Thu, 7 Feb 2019 14:11:24 +0000
+Subject: [PATCH]  for stash pop
+
+---
+ index.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.txt b/index.txt
+index 4c36428..4b19018 100644
+--- a/index.txt
++++ b/index.txt
+@@ -1,2 +1,3 @@
++for stash
+ for reset
+ 
+-- 
+2.7.4
+
